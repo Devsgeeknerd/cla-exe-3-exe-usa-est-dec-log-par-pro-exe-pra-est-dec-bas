@@ -16,18 +16,19 @@ Você irá receber a idade da pessoa na variável idadePessoa, e:
 
 [Resolução.](main.ts)
 
-* **Boas práticas**:
-
-  * Nomes significativos para variáveis:
-    * 'idadePessoa' é claro e descritivo.
-  * Uso de if-else if-else:
-    * Organiza as condições de forma clara.
-  * Uso de intervalos para verificar faixas etárias:
-    * Torna o código mais legível.
-
-* **Sugestões de melhoria**:
-  * Pode ser útil encapsular essa lógica em uma função para reutilização.
-  * Lidar com situações em que 'idadePessoa' não é um número (adicionar validações).
+> [!IMPORTANT]\
+>
+> * **Boas práticas**:
+>   * Nomes significativos para variáveis:
+>     * 'idadePessoa' é claro e descritivo.
+>   * Uso de if-else if-else:
+>     * Organiza as condições de forma clara.
+>   * Uso de intervalos para verificar faixas etárias:
+>     * Torna o código mais legível.
+>
+> * **Sugestões de melhoria**:
+>   * Pode ser útil encapsular essa lógica em uma função para reutilização.
+>   * Lidar com situações em que 'idadePessoa' não é um número (adicionar validações).
 
 <!-- Informações -->
 ## &#8505; Informações
