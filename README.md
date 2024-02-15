@@ -17,7 +17,6 @@ Você irá receber a idade da pessoa na variável idadePessoa, e:
 [Resolução.](main.ts)
 
 > [!IMPORTANT]\
->
 > * **Boas práticas**:
 >   * Nomes significativos para variáveis:
 >     * 'idadePessoa' é claro e descritivo.
