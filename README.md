@@ -20,16 +20,22 @@ Você irá receber a idade da pessoa na variável idadePessoa, e:
 > **Boas práticas**:
 >
 > * Nomes significativos para variáveis:
->   * 'idadePessoa' é claro e descritivo.
+>   * “idadePessoa” é claro e descritivo.
 > * Uso de if-else if-else:
 >   * Organiza as condições de forma clara.
-> * Uso de intervalos para verificar faixas etárias:
->   * Torna o código mais legível.
->
+> * Comentários concisos para explicar a lógica.
+
+> [!WARNING]\
 > **Sugestões de melhoria**:
 >
-> * Pode ser útil encapsular essa lógica em uma função para reutilização.
-> * Lidar com situações em que 'idadePessoa' não é um número (adicionar validações).
+> * Se o código for reutilizado, considerar encapsular a lógica em uma função.
+> * Certificar-se de que as mensagens impressas são adequadas ao contexto da aplicação.
+> * Adicionar validações adicionais, se necessário, como garantir que 'idadePessoa' seja um número positivo.
+
+> [!NOTE]\
+> **Observação**:
+>
+> * Certifique-se de tratar diferentes casos, como idades negativas, dependendo dos requisitos.
 
 <!-- Informações -->
 ## &#8505; Informações
